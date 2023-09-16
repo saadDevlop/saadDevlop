@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Wizard, Back-End Sorcerer</h3>
 <img align="right" alt="Codingf" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690034956546/101c1694-7e87-458e-afd5-ab65c48c468e.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saaddevlop" alt="saaddevlop" /></a> </p>
+
 
 - 🌱 I’m currently learning **React**
 
